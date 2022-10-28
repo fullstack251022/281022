@@ -1,3 +1,5 @@
 https://www.w3schools.com/java/java_operators.asp
 
 https://www.programiz.com/java-programming/operators
+
+https://www.baeldung.com/java-primitives
